@@ -1,2 +1,2 @@
 # piphone
-PiPhone Landing Plate Designed with plane CSS using flex and grid.
+PiPhone Landing Page Designed with plane CSS using flex and grid.
